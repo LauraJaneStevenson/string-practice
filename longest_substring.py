@@ -1,6 +1,6 @@
 def longest_substring(word):
-"""Given a string, find the length of the longest 
-substring without repeating characters."""
+	"""Given a string, find the length of the longest 
+	substring without repeating characters."""
 
 
 	longest = 0 
@@ -21,4 +21,4 @@ substring without repeating characters."""
 
 	return longest
 
-print(longest_substring("abcabcbb"))
+print(longest_substring("laura"))
